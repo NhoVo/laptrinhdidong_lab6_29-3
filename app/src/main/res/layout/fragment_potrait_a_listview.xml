@@ -7,26 +7,26 @@
 
     <View
         android:id="@+id/view6"
-        android:layout_width="410dp"
-        android:layout_height="134dp"
-        android:background="#D9CEBA"
+        android:layout_width="364dp"
+        android:layout_height="101dp"
+        android:background="@drawable/backgroup_listview"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.659"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.025" />
 
     <ImageView
         android:id="@+id/imggiay"
-        android:layout_width="133dp"
-        android:layout_height="127dp"
+        android:layout_width="158dp"
+        android:layout_height="100dp"
         app:layout_constraintBottom_toBottomOf="@+id/view6"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.024"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/view6"
         app:layout_constraintTop_toTopOf="@+id/view6"
-        app:layout_constraintVertical_bias="0.8"
+        app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/shoes_rm_preview_b" />
 
     <TextView
