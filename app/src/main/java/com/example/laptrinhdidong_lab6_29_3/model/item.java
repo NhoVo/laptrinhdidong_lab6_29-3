@@ -1,19 +1,19 @@
 package com.example.laptrinhdidong_lab6_29_3.model;
 
-public class giay {
+public class item {
     private int id;
     private int img;
     private String dis1;
     private String dis2;
 
-    public giay(int id, int img, String dis1, String dis2) {
+    public item(int id, int img, String dis1, String dis2) {
         this.id = id;
         this.img = img;
         this.dis1 = dis1;
         this.dis2 = dis2;
     }
 
-    public giay(int img, String dis1, String dis2) {
+    public item(int img, String dis1, String dis2) {
         this.img = img;
         this.dis1 = dis1;
         this.dis2 = dis2;

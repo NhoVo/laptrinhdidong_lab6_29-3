@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Laptrinhdidong_lab6_29_3">
         <activity
-            android:name=".MainActivity"
+            android:name=".activity.activity_giay"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
