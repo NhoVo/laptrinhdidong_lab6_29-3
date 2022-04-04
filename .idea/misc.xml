@@ -11,8 +11,10 @@
         <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1745" />
         <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/drawable/striking_text.xml" value="0.162" />
         <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/drawable/yellow_block.xml" value="0.162" />
+        <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/layout/activity_detail_shoes.xml" value="0.25" />
         <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/layout/activity_fragment.xml" value="0.25" />
         <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/layout/activity_main2.xml" value="0.1" />
         <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/layout/fragment_center.xml" value="0.25" />
         <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/layout/fragment_header.xml" value="0.25" />
         <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/layout/fragment_portrait_a.xml" value="0.2064814814814815" />
@@ -20,7 +22,7 @@
         <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/layout/fragment_potrai_a.xml" value="0.25" />
         <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/layout/fragment_potrai_a_listView.xml" value="0.1" />
         <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/layout/fragment_potrai_a_listview.xml" value="0.25" />
-        <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/layout/fragment_potrait_a_listview.xml" value="0.25" />
+        <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/layout/fragment_potrait_a_listview.xml" value="0.2" />
         <entry key="..\:/laptrinhdidong_lab6_29_3/app/src/main/res/layout/fragment_potrait_a_main.xml" value="0.1" />
       </map>
     </option>

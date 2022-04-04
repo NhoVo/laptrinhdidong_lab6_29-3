@@ -10,8 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Laptrinhdidong_lab6_29_3">
         <activity
-            android:name=".activity.activity_giay"
-            android:exported="true">
+            android:name=".activity.DetailActivity_Shoes"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".activity.MainActivity_Shoes"
+            android:exported="true" >
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
